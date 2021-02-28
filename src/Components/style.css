@@ -7,6 +7,6 @@
 
 .custom-form{
     margin: 0px auto !important;
- 
-    width: 400px;
+    width: 95%;
+    max-width: 400px;
 }
